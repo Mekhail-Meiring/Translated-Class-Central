@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Class Central</ShortName>
+  <Description>Search for free online courses and MOOCs</Description>
+  <Tags>mooc free online courses</Tags>
+  <Contact>contact@classcentral.com</Contact>
+  <Url type="text/html" method="get"
+       template="https://www.classcentral.com/search?q={searchTerms}"/>
+  <LongName>Class Central free online courses AKA MOOC search</LongName>
+  <Image height="64" width="64" type="image/png">https://www.classcentral.com/apple-touch-icon-72x72.png</Image>
+  <Image height="16" width="16" type="image/x-icon">https://www.classcentral.com/favicon.ico</Image>
+  <SyndicationRight>open</SyndicationRight>
+  <AdultContent>false</AdultContent>
+  <Language>en-us</Language>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>
